@@ -1,10 +1,14 @@
-## Hi there 👋
 
-<img src="https://github.com/{pasqualedeluca}/{pasqualedeluca}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+<div align="center">
+  <img src="./assets/images/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+</div>
 
+<br>
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{PasqualeDeLuca}/{PasqualeDeLuca}/issues)**
+I’m a Software Developer with experience in Web, Mobile and Game Development. I enjoy building complete applications, from architecture and user interfaces to backend, databases and deployment, with a strong focus on clean, maintainable and scalable code.
+
+* 🌱 I’m currently learning .NET, Angular and Full Stack Development
+* 💬 Ask me about C#, Swift, SwiftUI, React, Angular…or anything [here](https://github.com/{PasqualeDeLuca}/{PasqualeDeLuca}/issues)
 
 <br>
 
@@ -23,20 +27,55 @@
   </a>
 </div>
 
-<hr>
-
+<br>
 
 ## 🛠️ Languages and Tools
 
 <br>
 
+### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=react,angular,gatsby,nextjs,html,css,sass,js,ts" />
 </p>
 
-<hr>
+### Backend
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+</p>
+
+### Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,netlify,github,githubactions" />
+</p>
+
+### Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio" />
+</p>
+
+### Game Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+### Software Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
+<br>
 
 ## ⚡️ Stats
 
@@ -44,6 +83,25 @@
 
 <div align="center">
 
+   <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PasqualeDeLuca&layout=donut&langs_count=8&hide=css&theme=dark_github&locale=en"
+    />
+    <img
+      width="325"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=PasqualeDeLuca&layout=donut&langs_count=8&hide=css&theme=light_github&locale=en"
+      alt="PasqualeDeLuca's most used languages"
+    />
+  </picture>
+  
+  <img
+    width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PasqualeDeLuca&theme=transparent&border_radius=10&locale=en"
+    alt="PasqualeDeLuca's GitHub streak"
+  />
+
+<!--
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -55,48 +113,40 @@
       alt="PasqualeDeLuca's GitHub stats"
     />
   </picture>
-
-  <img
-    width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PasqualeDeLuca&theme=transparent&border_radius=10&locale=en"
-    alt="PasqualeDeLuca's GitHub streak"
-  />
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PasqualeDeLuca&layout=donut&langs_count=8&hide=css&theme=dark_github&locale=en"
-    />
-    <img
-      width="325"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=PasqualeDeLuca&layout=donut&langs_count=8&hide=css&theme=light_github&locale=en"
-      alt="PasqualeDeLuca's most used languages"
-    />
-  </picture>
-
+-->
+  
 </div>
 
-<hr>
-
+<br>
 
 ## 🐍 My Contributions
 
+<br>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </div>
-
 <hr>
 
 
+
+
 <!--
-**PasqualeDeLuca/PasqualeDeLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**PasqualeDeLuca/PasqualeDeLuca** is a ✨ _special_ ✨ repository because this `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
