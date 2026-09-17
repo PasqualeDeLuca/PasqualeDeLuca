@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/images/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+  <img src="./assets/images/software-developer.gif" alt="Banner of a developer sitting in front of a desk">
 </div>
 
 <br>
