@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{pasqualedeluca}/{pasqualedeluca}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{PasqualeDeLuca}/{PasqualeDeLuca}/issues)**
 
 <br>
 
@@ -42,10 +42,38 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pasqualedeluca&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="PasqualeDeLuca's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pasqualedeluca&theme=transparent&count_private=true&border_radius=10&locale=en" alt="PasqualeDeLuca's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=pasqualedeluca&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="PasqualeDeLuca's Most Used Languages" />
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=PasqualeDeLuca&theme=dark_github&show_icons=true&rank_icon=github&locale=en"
+    />
+    <img
+      width="390"
+      src="https://github-stats-extended.vercel.app/api?username=PasqualeDeLuca&theme=light_github&show_icons=true&rank_icon=github&locale=en"
+      alt="PasqualeDeLuca's GitHub stats"
+    />
+  </picture>
+
+  <img
+    width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PasqualeDeLuca&theme=transparent&border_radius=10&locale=en"
+    alt="PasqualeDeLuca's GitHub streak"
+  />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PasqualeDeLuca&layout=donut&langs_count=8&hide=css&theme=dark_github&locale=en"
+    />
+    <img
+      width="325"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=PasqualeDeLuca&layout=donut&langs_count=8&hide=css&theme=light_github&locale=en"
+      alt="PasqualeDeLuca's most used languages"
+    />
+  </picture>
+
 </div>
 
 <hr>
@@ -55,9 +83,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{pasqualedeluca}/{pasqualedeluca}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{pasqualedeluca}/{pasqualedeluca}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{pasqualedeluca}/{pasqualedeluca}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PasqualeDeLuca/PasqualeDeLuca/output/github-snake.svg" />
   </picture>
 </div>
 
